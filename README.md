@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nahuel 👋</h1>
 
 <p align="center">
-  <b>💻 Fullstack Web Developer | React • Node.js • MongoDB</b><br/>
+  <b>💻 Fullstack Web Developer | React • Node.js • MongoDB • Typescripts • Tailwind </b><br/>
   <i>Always learning, always building. Open to remote opportunities 🌍</i>
 </p>
 
