@@ -31,7 +31,7 @@ Backend: [`LaCerveceria-Back`](https://github.com/NahuelAnselmo/LaCerveceria-Bac
 ### 🚀 Let's Connect
 
 - 🌐 LinkedIn: [Nahuel Anselmo](https://www.linkedin.com/in/nahuel-anselmo-67b099271)
-- 📬 Email: *[agregalo si querés]*
+- 📬 Email: anselmonahuel63t@gmail.com
 
 ---
 
