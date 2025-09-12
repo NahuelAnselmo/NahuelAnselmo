@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nahuel 👋</h1>
+<h1 align="center">Hey, I'm Nahuel 👋</h1>
 
 <p align="center">
   <b>💻 Fullstack Web Developer | React • Node.js • TypeScript • MongoDB • TailwindCSS</b><br/>
@@ -9,13 +9,28 @@
 
 ### 🧠 About Me
 
-- 🌎 From San Miguel de Tucumán, Argentina 🇦🇷
-- 🧰 Tech Stack: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `Zustand`, `React Query`, `Firebase`, `Zod`
-- 🔧 Also familiar with: `Bootstrap`, `TailwindCSS`, `Git`, `Vercel`, `Render`, `Postman`, `SweetAlert2`
-- 📈 Currently working on fullstack projects (eCommerce & CRM) with real-time messaging
-- 🎓 Mentor at RollingCode School — guiding new developers in real-world projects
-- 🎯 Actively looking for remote roles — frontend, backend or fullstack
-- 💬 Strong problem-solving, communication and teamwork skills from past support experience
+- 🌎 Based in San Miguel de Tucumán, Argentina 🇦🇷  
+- 🎓 Mentor at RollingCode School — guiding new developers in real-world projects  
+- ⚙️ Building fullstack projects (eCommerce, CRM, CRUD, Gestion WEB) 
+- 💬 Strong problem-solving, communication and teamwork skills from past support experience  
+- 🎯 Open to remote opportunities — frontend, backend or fullstack
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+</p>
 
 ---
 
@@ -32,9 +47,10 @@ Backend: [LaCerveceria-Back](https://github.com/NahuelAnselmo/LaCerveceria-Back)
 
 ### 🚀 Let's Connect
 
-- 🌐 [LinkedIn – Nahuel Anselmo](https://www.linkedin.com/in/nahuelanselmo)
-- 📬 anselmonahuel63t@gmail.com
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahuelanselmo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anselmonahuel63t@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 ---
 
 <details>
