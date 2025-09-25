@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Nahuel 👋</h1>
 
 <p align="center">
-  <b>💻 Fullstack Web Developer | React • Node.js • TypeScript • MongoDB • TailwindCSS</b><br/>
+  <b>💻 Fullstack Web Developer | React • Node.js • TypeScript • MongoDB • Express • TailwindCSS</b><br/>
   <i>Mentor at RollingCode School · Always learning, always building · Open to remote opportunities 🌍</i>
 </p>
 
