@@ -1,0 +1,58 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1711"/>
+      <stop offset="1" stop-color="#17251C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="75" x2="635" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D0EDA9"/>
+      <stop offset="1" stop-color="#8DBB76"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#background)"/>
+  <path d="M0 306C248 244 420 386 676 293C863 224 1007 166 1200 219V360H0V306Z" fill="#B9DE9210"/>
+  <circle cx="1030" cy="26" r="256" stroke="#BADE9230" stroke-width="2"/>
+  <circle cx="1030" cy="26" r="174" stroke="#BADE9222"/>
+  <circle cx="1030" cy="26" r="94" stroke="#BADE921A"/>
+  <circle cx="979" cy="187" r="8" fill="#BADE92"/>
+  <circle cx="979" cy="187" r="20" fill="#BADE92" fill-opacity="0.12" filter="url(#glow)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="76" fill="#BADE92" font-size="20" font-weight="700" letter-spacing="4">FULL STACK WEB DEVELOPER</text>
+    <text x="68" y="170" fill="#EEF3E9" font-size="72" font-weight="600" letter-spacing="-3">Nahuel Anselmo</text>
+    <text x="72" y="220" fill="url(#accent)" font-size="29">De la interfaz a los datos.</text>
+
+    <g font-size="16" fill="#C8D4C9">
+      <rect x="72" y="263" width="108" height="42" rx="10" fill="#1B2B20" stroke="#405447"/>
+      <text x="94" y="290">Next.js</text>
+      <rect x="192" y="263" width="102" height="42" rx="10" fill="#1B2B20" stroke="#405447"/>
+      <text x="216" y="290">React</text>
+      <rect x="306" y="263" width="130" height="42" rx="10" fill="#1B2B20" stroke="#405447"/>
+      <text x="327" y="290">TypeScript</text>
+      <rect x="448" y="263" width="116" height="42" rx="10" fill="#1B2B20" stroke="#405447"/>
+      <text x="471" y="290">Node.js</text>
+      <rect x="576" y="263" width="138" height="42" rx="10" fill="#1B2B20" stroke="#405447"/>
+      <text x="597" y="290">PostgreSQL</text>
+    </g>
+
+    <g transform="translate(820 124)">
+      <path d="M48 42H128" stroke="#6D8B74" stroke-width="2" stroke-dasharray="5 5"/>
+      <path d="M176 42H256" stroke="#6D8B74" stroke-width="2" stroke-dasharray="5 5"/>
+      <rect width="58" height="84" rx="14" fill="#15221A" stroke="#587263"/>
+      <rect x="128" width="58" height="84" rx="14" fill="#15221A" stroke="#587263"/>
+      <rect x="256" width="58" height="84" rx="14" fill="#15221A" stroke="#587263"/>
+      <circle cx="29" cy="28" r="9" fill="#BADE92" fill-opacity="0.9"/>
+      <circle cx="157" cy="28" r="9" fill="#BADE92" fill-opacity="0.9"/>
+      <circle cx="285" cy="28" r="9" fill="#BADE92" fill-opacity="0.9"/>
+      <text x="12" y="64" fill="#C8D4C9" font-size="12">UI</text>
+      <text x="141" y="64" fill="#C8D4C9" font-size="12">API</text>
+      <text x="267" y="64" fill="#C8D4C9" font-size="12">DATA</text>
+    </g>
+    <text x="830" y="246" fill="#9FB0A2" font-size="16">Productos web completos</text>
+    <text x="830" y="273" fill="#9FB0A2" font-size="16">Accesibles · Seguros · Mantenibles</text>
+  </g>
+</svg>
