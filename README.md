@@ -1,62 +1,39 @@
-<h1 align="center">Hey, I'm Nahuel 👋</h1>
+# Nahuel Anselmo
 
-<p align="center">
-  <b>💻 Fullstack Web Developer | React • Node.js • TypeScript • MongoDB • Express • TailwindCSS</b><br/>
-  <i>Mentor at RollingCode School · Always learning, always building · Open to remote opportunities 🌍</i>
-</p>
+**Full Stack Web Developer** de San Miguel de Tucumán, Argentina. Desarrollo aplicaciones web completas con React, Next.js, TypeScript y Node.js, conectando una experiencia clara con APIs, reglas de negocio y datos confiables.
 
----
+[Portfolio](https://nahuel-anselmo-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nahuelanselmo/) · [Email](mailto:nahuelanselmo63t@gmail.com)
 
-### 🧠 About Me
+Actualmente estoy abierto a oportunidades frontend, backend o full stack, presenciales y remotas.
 
-- 🌎 Based in San Miguel de Tucumán, Argentina 🇦🇷  
-- 🎓 Mentor at RollingCode School — guiding new developers in real-world projects  
-- ⚙️ Building fullstack projects (eCommerce, CRM, CRUD, Gestion WEB) 
-- 💬 Strong problem-solving, communication and teamwork skills from past support experience  
-- 🎯 Open to remote opportunities — frontend, backend or fullstack
+## Proyecto destacado: Agenda Local
 
----
+Plataforma de turnos para comercios de servicios, pensada para integrar la reserva online con la operación que muchos negocios ya realizan por WhatsApp, teléfono o de manera presencial.
 
-### ⚡ Tech Stack
+- Reserva pública por servicio, profesional, fecha y horario.
+- Panel con métricas, filtros y gestión completa de turnos.
+- Accesos por rol: el propietario administra el negocio y cada profesional consulta su propia agenda.
+- Gestión de servicios, equipo, horarios, ausencias y credenciales.
+- Protección contra turnos superpuestos y solicitudes duplicadas.
+- Envío configurable de accesos por email con Resend.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-</p>
+**Stack:** Next.js, React, TypeScript, Express, Prisma y PostgreSQL.
 
----
+[Caso de estudio](https://nahuel-anselmo-portfolio.vercel.app/projects/agenda-local) · [Frontend](https://github.com/NahuelAnselmo/agenda-local-frontend) · [Backend](https://github.com/NahuelAnselmo/agenda-local-backend)
 
-### 🧩 Featured Projects
+## Otros proyectos
 
-🔹 **La Cervecería** – Fullstack CRUD app  
-Frontend: [LaCerveceria-Front](https://github.com/NahuelAnselmo/LaCerveceria-Front)  
-Backend: [LaCerveceria-Back](https://github.com/NahuelAnselmo/LaCerveceria-Back)
+| Proyecto | Qué demuestra | Código |
+| --- | --- | --- |
+| **Portfolio profesional** | Next.js App Router, contenido tipado, SEO, accesibilidad, responsive design, temas y pruebas E2E | [Repositorio](https://github.com/NahuelAnselmo/portfolio) |
+| **Gestor de tareas** | Autenticación, API REST, CRUD y datos aislados por usuario con el stack MERN | [Frontend](https://github.com/NahuelAnselmo/client-tasks-crud) · [Backend](https://github.com/NahuelAnselmo/server-tasks-crud) |
+| **La Cervecería** | Catálogo, carrito, administración y trabajo colaborativo en un equipo de tres personas | [Frontend](https://github.com/NahuelAnselmo/LaCerveceria-Front) · [Backend](https://github.com/NahuelAnselmo/LaCerveceria-Back) |
 
-🔹 **Disney Landing Page Clone**  
-[Proyecto-N-2---Disney](https://github.com/NahuelAnselmo/Proyecto-N-2---Disney)
+## Tecnologías
 
----
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS y Bootstrap.
+- **Backend:** Node.js, Express, APIs REST, autenticación y control de acceso por roles.
+- **Datos:** PostgreSQL, Prisma, MongoDB y Mongoose.
+- **Calidad:** Git, GitHub Actions, Playwright, accesibilidad y diseño responsive.
 
-### 🚀 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nahuelanselmo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anselmonahuel63t@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
----
-
-<details>
-  <summary>⚙️ GitHub Stats</summary>
-
-  ![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahuelAnselmo&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelAnselmo&layout=compact&theme=radical)
-
-</details>
+Me formé en Desarrollo Web Full Stack en RollingCode School y continúo profundizando en arquitectura, seguridad, testing y despliegue de productos web.
