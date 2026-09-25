@@ -112,12 +112,16 @@
 | **Gestor de tareas** | Permite registrarse, iniciar sesión y administrar tareas con datos aislados por usuario. | React · Node.js · Express · MongoDB | [Frontend](https://github.com/NahuelAnselmo/client-tasks-crud) · [Backend](https://github.com/NahuelAnselmo/server-tasks-crud) |
 | **La Cervecería** | Catálogo, carrito y administración para un e-commerce desarrollado en equipo. | React · Node.js · MongoDB · Bootstrap | [Frontend](https://github.com/NahuelAnselmo/LaCerveceria-Front) · [Backend](https://github.com/NahuelAnselmo/LaCerveceria-Back) |
 
-## Actividad en GitHub
+## Cómo trabajo
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NahuelAnselmo&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1711&amp;title_color=BADE92&amp;text_color=C8D4C9&amp;icon_color=8DBB76&amp;locale=es" alt="Estadísticas de GitHub de Nahuel Anselmo" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelAnselmo&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1711&amp;title_color=BADE92&amp;text_color=C8D4C9&amp;locale=es" alt="Lenguajes más usados por Nahuel Anselmo" />
+  <img src="./assets/development-workflow.svg" width="100%" alt="Proceso de desarrollo: planificar, construir, verificar y publicar" />
 </p>
+
+| Código para revisar | Producto funcionando | Historial de trabajo |
+| :---: | :---: | :---: |
+| [Agenda Local API](https://github.com/NahuelAnselmo/agenda-local-backend) | [Portfolio](https://nahuel-anselmo-portfolio.vercel.app) | [Todos mis repositorios](https://github.com/NahuelAnselmo?tab=repositories) |
+| [Agenda Local Web](https://github.com/NahuelAnselmo/agenda-local-frontend) | [Caso de estudio](https://nahuel-anselmo-portfolio.vercel.app/projects/agenda-local) | [Mi perfil de GitHub](https://github.com/NahuelAnselmo) |
 
 ## Formación
 

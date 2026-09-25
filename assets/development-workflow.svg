@@ -1,0 +1,52 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="workflow-bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1711"/>
+      <stop offset="1" stop-color="#17251C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#workflow-bg)"/>
+  <path d="M70 102H1130" stroke="#405447" stroke-width="2" stroke-dasharray="5 8"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="56" fill="#BADE92" font-size="17" font-weight="700" letter-spacing="3">CÓMO TRABAJO</text>
+    <text x="70" y="88" fill="#EEF3E9" font-size="24" font-weight="600">Código que se puede entender, probar y desplegar.</text>
+
+    <g transform="translate(70 124)">
+      <rect width="245" height="118" rx="14" fill="#15221A" stroke="#405447"/>
+      <circle cx="35" cy="34" r="17" fill="#BADE92"/>
+      <text x="27" y="40" fill="#172411" font-size="16" font-weight="700">01</text>
+      <text x="64" y="39" fill="#EEF3E9" font-size="18" font-weight="700">Planifico</text>
+      <text x="24" y="78" fill="#9FB0A2" font-size="14">Problema, alcance y decisiones</text>
+      <text x="24" y="100" fill="#9FB0A2" font-size="14">antes de sumar complejidad.</text>
+    </g>
+
+    <g transform="translate(340 124)">
+      <rect width="245" height="118" rx="14" fill="#15221A" stroke="#405447"/>
+      <circle cx="35" cy="34" r="17" fill="#BADE92"/>
+      <text x="27" y="40" fill="#172411" font-size="16" font-weight="700">02</text>
+      <text x="64" y="39" fill="#EEF3E9" font-size="18" font-weight="700">Construyo</text>
+      <text x="24" y="78" fill="#9FB0A2" font-size="14">TypeScript, componentes claros</text>
+      <text x="24" y="100" fill="#9FB0A2" font-size="14">y reglas cerca del dominio.</text>
+    </g>
+
+    <g transform="translate(610 124)">
+      <rect width="245" height="118" rx="14" fill="#15221A" stroke="#405447"/>
+      <circle cx="35" cy="34" r="17" fill="#BADE92"/>
+      <text x="27" y="40" fill="#172411" font-size="16" font-weight="700">03</text>
+      <text x="64" y="39" fill="#EEF3E9" font-size="18" font-weight="700">Verifico</text>
+      <text x="24" y="78" fill="#9FB0A2" font-size="14">Lint, tipos, pruebas y revisión</text>
+      <text x="24" y="100" fill="#9FB0A2" font-size="14">de accesibilidad.</text>
+    </g>
+
+    <g transform="translate(880 124)">
+      <rect width="250" height="118" rx="14" fill="#15221A" stroke="#405447"/>
+      <circle cx="35" cy="34" r="17" fill="#BADE92"/>
+      <text x="27" y="40" fill="#172411" font-size="16" font-weight="700">04</text>
+      <text x="64" y="39" fill="#EEF3E9" font-size="18" font-weight="700">Publico</text>
+      <text x="24" y="78" fill="#9FB0A2" font-size="14">Commits pequeños, CI y casos</text>
+      <text x="24" y="100" fill="#9FB0A2" font-size="14">de estudio documentados.</text>
+    </g>
+  </g>
+</svg>
